@@ -1,6 +1,8 @@
 
 https://clojars.org/org.clojars.tommy-mor/defdebug
 
+https://youtu.be/bPoe2N7J5yg?t=514
+
 # defdebug
 
 A Clojure debugging utility that gives two macros: defnDEBUG and letDEBUG.
